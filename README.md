@@ -31,3 +31,7 @@ We advise against it.
 
 ## I'm facing some trouble using your Vagrant box.
 Please [open and issue here](https://github.com/hellofresh/mapr-vagrant/issues) or better yet help us fix it.
+
+
+### Contributors
+[Mohannad Ali](https://www.github.com/mandoz)
