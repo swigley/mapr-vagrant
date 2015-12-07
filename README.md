@@ -1,5 +1,5 @@
-# MapR Vagrant Box
-This repository includes a sample `Vagrantfile` and the `Readme` on how to use the MapR Vagrant base box that we have created.
+# Single-node MapR Vagrant Box
+This repository includes a sample `Vagrantfile` and the `Readme` on how to use the Single-node MapR Vagrant base box that we have created.
 This box is based on the official [`ubuntu/trusty64` box](https://atlas.hashicorp.com/ubuntu/boxes/trusty64) and is based on virtualbox as a provider.
 
 ## Whats in the box:
