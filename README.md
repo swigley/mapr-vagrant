@@ -1,12 +1,16 @@
 # MapR Vagrant Box
 This repository includes a sample `Vagrantfile` and the `Readme` on how to use the MapR Vagrant base box that we have created.
-This box is based on the official [`ubuntu/trusty64` box](https://atlas.hashicorp.com/ubuntu/boxes/trusty64)
+This box is based on the official [`ubuntu/trusty64` box](https://atlas.hashicorp.com/ubuntu/boxes/trusty64) and is based on virtualbox as a provider.
 
 ## Whats in the box:
 * MapR 5.0.0
 * Hive 0.13
 * Impala 1.4.1
 * Spark 1.3.1
+
+## Requirements
+[Virtualbox](https://www.virtualbox.org/wiki/Downloads)
+[Vagrant](https://www.vagrantup.com/downloads.html)
 
 ## How to use the box:
 Pretty simple stuff
