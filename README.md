@@ -36,6 +36,8 @@ We advise against it.
 ## I'm facing some trouble using your Vagrant box.
 Please [open and issue here](https://github.com/hellofresh/mapr-vagrant/issues) or better yet help us fix it.
 
+### We're hiring!
+https://www.hellofresh.com/jobs/de/
 
 ### Contributors
 [Mohannad Ali](https://www.github.com/mandoz)
