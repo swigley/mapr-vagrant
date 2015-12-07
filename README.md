@@ -9,8 +9,8 @@ This box is based on the official [`ubuntu/trusty64` box](https://atlas.hashicor
 * Spark 1.3.1
 
 ## Requirements
-[Virtualbox](https://www.virtualbox.org/wiki/Downloads)
-[Vagrant](https://www.vagrantup.com/downloads.html)
+* [Virtualbox](https://www.virtualbox.org/wiki/Downloads)
+* [Vagrant](https://www.vagrantup.com/downloads.html)
 
 ## How to use the box:
 Pretty simple stuff
