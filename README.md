@@ -6,7 +6,7 @@ This box is based on the official [`ubuntu/trusty64` box](https://atlas.hashicor
 * MapR 5.0.0
 * Hive 0.13
 * Impala 1.4.1
-* Spark 1.3.1
+* Spark 1.5.2
 
 ## Requirements
 * [Virtualbox](https://www.virtualbox.org/wiki/Downloads)
