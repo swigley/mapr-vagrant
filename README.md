@@ -32,6 +32,13 @@ Password: mapr
 ## Can I use this in production?
 We advise against it.
 
+## Known Issues
+Sometimes Impala doesn't work properly and is unable to read the databases from the HiveServer2. This can be solved by restarting impala, by running the following as `mapr` user:
+```bash
+maprcli node services impalastore restart -nodes `hostname`
+maprcli node services impalacatalog restart -nodes `hostname`
+maprcli node services impalaserver restart -nodes `hostname`
+```
 ## I'm facing some trouble using your Vagrant box.
 Please [open and issue here](https://github.com/hellofresh/mapr-vagrant/issues) or better yet help us fix it.
 
