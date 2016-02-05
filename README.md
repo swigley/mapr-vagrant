@@ -13,9 +13,8 @@ This box is based on the official [`ubuntu/trusty64` box](https://atlas.hashicor
 * [Vagrant](https://www.vagrantup.com/downloads.html)
 
 ## How to use the box:
-Pretty simple stuff
+Pretty simple stuff. Copy the provided `Vagrantfile` to your directory and run:
 ```
-vagrant init hellofresh/mapr
 vagrant up
 ```
 
